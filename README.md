@@ -1,4 +1,4 @@
-# Workaholics
+# Workaholics Project
 ### Freelancing platform (service based website)
 
 ## Web Engineering Project 
